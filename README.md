@@ -6,3 +6,5 @@ Talk dates:
 * Nov. 5, 2012: Paris, France
 * Nov. 17, 2012: Rennes, France
 * Nov. 24, 2012: Toulouse, France
+
+See it online: http://slides.alwaysdata.com/201211_django_alwaysdata/
